@@ -1,3 +1,12 @@
+### This repository is used in following thesis
+
+Yani Mohamad, Nao Yamada, Siow C, & Naoyuki K. (2023).   
+**An efficient activity recognition for homecare robots from multi-modal communication dataset.**   
+International Journal of Advances in Intelligent Informatics, 9(1), 39-50. doi:[https://doi.org/10.26555/ijain.v9i1.903](https://doi.org/10.26555/ijain.v9i1.903)
+
+In this thesis, link to github repository is `https://github.com/Nao-Y1996/gnn_state_recognition`.   
+*Nao-Y1996* is my previous user name.
+
 # Description
 This system allows you to make your robot partner learn your daily state (behavior).
 The robot partner can be imagined as a virtual robot on your PC. (If you are the developer of the HSR robot, you can use it.)
